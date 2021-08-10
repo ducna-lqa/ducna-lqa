@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ducna-lqa
+- 👋 Hi, I’m @ducna-lst
 - 👀 I’m interested in GoLang, DevOps
 - 🌱 I’m currently learning GoLang
 - 📫 How to reach me ...
